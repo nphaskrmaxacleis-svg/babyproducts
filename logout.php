@@ -1,0 +1,1 @@
+<?php require 'includes/functions.php';if($_SERVER['REQUEST_METHOD']==='POST'){verify_csrf();$_SESSION=[];session_destroy();setcookie(session_name(),'',time()-3600,'/babyproducts/');go('login.php');}go('profile.php');

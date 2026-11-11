@@ -1,0 +1,4 @@
+Leaflet 1.9.4, self-hosted files downloaded from https://unpkg.com/leaflet@1.9.4/dist/
+Source: https://github.com/Leaflet/Leaflet/tree/v1.9.4
+License: BSD-2-Clause, see LICENSE.
+No geolocation is requested and no map tiles are loaded until the member explicitly opens the map.
