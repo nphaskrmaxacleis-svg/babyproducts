@@ -1,0 +1,9 @@
+/backups/
+/storage/*
+!/storage/.htaccess
+!/storage/slips/
+/storage/slips/*
+!/storage/slips/.htaccess
+*.log
+.env
+.env.*
